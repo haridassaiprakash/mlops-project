@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+azureml-mlflow
+gast
+glob2
+imutils
+numpy
+joblib
+argparse
